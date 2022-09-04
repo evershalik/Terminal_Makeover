@@ -1,8 +1,8 @@
 
 # Customize-Terminal
 
-So are you ready to give your ordinary terminal to a new modern look? To do so just follow the below steps : 
-- Firstly open your terminal and simple run the below command: 
+So are you ready to give your ordinary terminal a new modern look? To do so just follow the below steps : 
+- Firstly open your terminal and simply run the below command: 
 ```
 cd
 vim .bashrc
